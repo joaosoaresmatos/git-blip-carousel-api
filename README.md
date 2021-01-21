@@ -1,4 +1,4 @@
-# Github blip API
+# GitHub Blip API
 This project is a part of a tecnical test from Take Blib. The system accesses the github api and filters the
  5 older repositories with C # language from the take organization and return the carousel data structure to the Blip bot.
 
