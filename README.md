@@ -39,9 +39,17 @@ After you can chose between those options:
 
 - [NextJS](https://nextjs.org/) 
 
+
+## Conection with Blip
+
+
+To play the chatbot you will need to access the [Blip](https://portal.blip.ai/application) platform  and create a bot from scratch. After that you must access the settings and import the file [githubblipbot.json](https://github.com/joaosoaresmatos/git-blip-carousel-api/blob/master/githubblipbot.json).
+
 ## Server
 
 
 The API of project can be accessed in the cloud from the following address:
 
     https://git-blip-carousel-api.vercel.app/api/carousel
+
+
